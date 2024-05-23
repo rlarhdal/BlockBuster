@@ -27,7 +27,7 @@
 <br/>
 
 ## 게임 설명
-|![image](https://github.com/rlarhdal/BrickOut/assets/93560053/59d9fe40-7038-4598-986c-18c1a456445f)|![image](https://github.com/rlarhdal/BrickOut/assets/93560053/9f577715-1489-4791-8e21-5bf0285aee17)
+|![332810353-59d9fe40-7038-4598-986c-18c1a456445f](https://github.com/rlarhdal/BlockBuster/assets/167050340/96de7e8a-93e6-49fc-98b5-f5fecb4fed37)|![image](https://github.com/rlarhdal/BrickOut/assets/93560053/9f577715-1489-4791-8e21-5bf0285aee17)
 |:---:|:---:|
 |시작 화면|설정 화면|
 |[시작 관련 스크립트]()|[설정 관련 스크립트]()|
